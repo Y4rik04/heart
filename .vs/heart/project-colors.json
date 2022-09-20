@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc1a3559-d915-4a71-a8d0-fec9a9032724": {
+      "ProjectGuid": "fc1a3559-d915-4a71-a8d0-fec9a9032724",
+      "DisplayName": "heart",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
